@@ -57,7 +57,6 @@ It provides a simple yet practical interface to manage student performance effic
 
 ## 🏗️ Project Structure
 
-
 src/
 │
 ├── components/
@@ -83,7 +82,7 @@ src/
 ## 📦 Installation & Setup
 
 1. Clone the repository
-```bash
+bash
 git clone https://github.com/ayeshsrivastava/Student-Scorecard-Dashboard.git
 Navigate into the project
 cd Student-Scorecard-Dashboard
