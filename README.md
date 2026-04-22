@@ -94,12 +94,13 @@ npm run dev
 
 <img width="1919" height="904" alt="image" src="https://github.com/user-attachments/assets/20b511e6-4a39-432e-a510-3f3b115dc42a" />
 
-
-🎯 Purpose
+---
+## 🎯 Purpose
 
 This project was built as part of a Web Development (React) lab assignment to strengthen understanding of real-world React concepts and UI design.
+---
 
-💡 Future Improvements
+##💡 Future Improvements
 Add local storage or database integration
 Add sorting/filtering functionality
 Improve accessibility
